@@ -12,11 +12,11 @@
 <tr border="none">
 <td width="50%" align="left"> -->
   
-<h3>- 🌱 I’m currently learning</h3> **OOP with Java** 
+<p><h3>- 🌱 I’m currently learning</h3> <strong>OOP with Java</strong></p>
 
-<h3>- 🧑‍🎓 I’m an Undergraduate at</h3> **SLIIT**
+<p><h3>- 🧑‍🎓 I’m an Undergraduate at</h3> <strong>SLIIT</strong></p>
 
-<h3>- 📫 How to reach me ...</h3> <br><a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" alt="dulhara Kaushalya">LinkedIn</a>
+<p><h3>- 📫 How to reach me ...</h3> <br><a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" alt="dulhara Kaushalya">LinkedIn</a></p>
 
 <!-- </td>
 </tr>
