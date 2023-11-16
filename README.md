@@ -8,9 +8,9 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20views&color=0e75b6&style=flat" alt="dulhara79" /> </p>
 
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="50%" align="left"> -->
   
 - 🌱 I’m currently learning **OOP with Java**
 
@@ -18,9 +18,9 @@
 
 - 📫 How to reach me ... <br><h3> <a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" alt="dulhara Kaushalya">LinkedIn</a>
 
-</td>
+<!-- </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
