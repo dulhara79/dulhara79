@@ -3,8 +3,10 @@
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
 - 🌱 I’m currently learning OOP with Java.
 -->
+<h2>It's pleasure to see you here!</2>
 <p align="center" ><img  src = "images\giphy.gif"></p>
-<h1 align="center"👋 Hi, I’m @Dulhara Kaushalya</h1>
+<h1> align="center"👋 Hi, I’m @Dulhara Kaushalya</h1>
+<hr>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20views&color=0e75b6&style=flat" alt="dulhara79" /> </p>
 
