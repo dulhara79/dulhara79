@@ -3,7 +3,7 @@
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
 - 🌱 I’m currently learning OOP with Java.
 -->
-<p align="center" style="font-size: 32px; font-weight: 800; color: rgb(4, 4, 48);">It's pleasure to see you here!</p>
+<p><h2 align="center">It's pleasure to see you here!</h2></p>
 <p align="center" ><img  src = "images\giphy.gif"></p>
 <h1 align="center"> Hi 👋, I’m @Dulhara Kaushalya</h1>
 <hr>
