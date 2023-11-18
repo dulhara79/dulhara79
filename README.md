@@ -20,7 +20,7 @@
 - 📫 How to reach me ...<a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" alt="dulhara Kaushalya">LinkedIn</a>
 
 </td>
-<td>
+<td width="100%">
 <img src="images\giphy.gif" height="200px">
 </td>
 </tr>
