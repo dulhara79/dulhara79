@@ -12,7 +12,7 @@
 
 <table >
 <tr border="none">
-<td width="50%" align="left">
+<td width="100%" align="left">
 - 🌱 I’m currently learning <strong>OOP with Java</strong>
 
 - 🧑‍🎓 I’m an Undergraduate at <strong>SLIIT</strong>
