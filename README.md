@@ -40,4 +40,5 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
 <a href="https://www.facebook.com/profile.php?id=100080904725947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
 
+</p>
 ---
