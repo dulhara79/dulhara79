@@ -1,4 +1,5 @@
 ## It's pleasure to see you here,
+
 <br><br>
 -------
 
@@ -7,7 +8,6 @@
 Hi 👋, I’m @Dulhara Kaushalya
 
 Energetic and passionate Undergraduate student towards improving knowledge and skills in IT industry. Looking forward for opportunities to enhance my capabilities. Trying to do great thing..
-
 
 - 🌱 I’m currently learning <strong>OOP with Java</strong>
 
@@ -30,12 +30,12 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 ---
 
 <h1 align="center">Connect with me:</h1>
-<!-- <p align="center"> -->
 <table align="center" border="none">
-<tr>
+<tr width="100%" align="center">
 <a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/edit/21702304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dulhara" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100080904725947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
 </tr>
 </table>
-<!-- </p> -->
+
+---
