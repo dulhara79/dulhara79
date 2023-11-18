@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning OOP with Java.
 -->
 <p><h2 align="center">It's pleasure to see you here!</h2></p>
-<p align="center" ><img  src = "images\giphy.gif"></p>
+<p align="center" ><img  src = "images\_80959f25-82a2-4b84-9b14-2392898e2f85.jpeg" width="300px" height="200px"></p>
 <h1 align="center"> Hi 👋, I’m @Dulhara Kaushalya</h1>
 <hr>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
