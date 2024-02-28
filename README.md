@@ -64,12 +64,15 @@ a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="http
 <h1 align="center">Connect with me:</h1>
 <table align="center" border="none">
 <tr width="100%" align="center">
-
+<td>
 <a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
-
+</td>
+<td>
 <a href="https://stackoverflow.com/users/edit/21702304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dulhara" height="50" width="50" /></a>
-
+</td>
+<td>
 <a href="https://www.facebook.com/profile.php?id=100080904725947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
+</td>
 </tr>
 </table>
 
