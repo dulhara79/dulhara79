@@ -1,7 +1,7 @@
 # It's pleasure to see you here,
 
 
-<img src="images/GitHub_banner.png" alt="github banner">
+<img width="800px" src="images/GitHub_banner.png" alt="github banner">
 
 -------
 
