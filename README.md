@@ -1,7 +1,7 @@
 # It's pleasure to see you here,
 
 
-<img src="../images/github_banner.PNG" alt="github banner">
+<img src="images/github_banner.PNG" alt="github banner">
 
 -------
 
@@ -13,10 +13,8 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20views&color=0e75b6&style=flat" alt="dulhara79" /> </p>
---------
 
 ## My stats
--------
 
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -36,28 +34,21 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
  ----
 
-<img style="width:300px"  align="left" src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
+<img style="width:400px"  align="left" src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
 
-<img style="width:300px" align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&theme=light&hide_border=false" /> 
+<img style="width:400px" align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&theme=light&hide_border=false" /> 
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulhara79&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 ---
 
-<h1 align="center">Connect with me:</h1>
-<table align="center" border="none" style="border-collapse:collapse">
-<tr width="100%" align="center">
-<td>
+## Connect with me:
+
+<p align="center">
 <a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
-</td>
-<td>
 <a href="https://stackoverflow.com/users/edit/21702304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dulhara" height="50" width="50" /></a>
-</td>
-<td>
 <a href="https://www.facebook.com/profile.php?id=100080904725947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
 <a href="https://www.instagram.com/dulhaara?igsh=anAzdGl5ZGRlZ3Nl&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
-</td>
-</tr>
-</table>
+</p>
 
 ---
