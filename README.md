@@ -1,7 +1,7 @@
 # It's pleasure to see you here,
 
 
-<img src="images/github_banner.PNG" alt="github banner">
+<img src="images/GitHub_banner.PNG" alt="github banner">
 
 -------
 
@@ -39,10 +39,9 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 <img src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
 
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&theme=light&hide_border=false" /> 
-</p>
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulhara79&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
+</p>
 
 ## Connect with me:
 
