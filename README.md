@@ -1,8 +1,7 @@
-## It's pleasure to see you here,
+# It's pleasure to see you here,
 
-<br><br>
 
-[![ github banner](https://images/github_banner.PNG)]
+<img src="..\images\github_banner.PNG" alt="github banner">
 
 -------
 
@@ -12,13 +11,11 @@ Hi 👋, I’m @Dulhara Kaushalya
 
 Energetic and passionate Undergraduate student towards improving knowledge and skills in IT industry. Looking forward for opportunities to enhance my capabilities. Trying to do great thing..
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20views&color=0e75b6&style=flat" alt="dulhara79" /> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20views&color=0e75b6&style=flat" alt="dulhara79" /> </p>
 --------
 
-# My stats
-
-
+## My stats
 -------
 
 <p align="center"> 
@@ -41,7 +38,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
 <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
 
-<img align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dulhara79)](https://git.io/streak-stats))" /> 
+<img align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&theme=light&hide_border=false" /> 
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulhara79&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
