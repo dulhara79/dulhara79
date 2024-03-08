@@ -14,10 +14,12 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20views&color=0e75b6&style=flat" alt="dulhara79" /> </p>
 
+---
+
 ## My stats
 
 <p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="375px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -36,7 +38,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
+<img width="375px" src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
 
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&theme=light&hide_border=false" /> 
 </p>
