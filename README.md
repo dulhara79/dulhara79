@@ -17,7 +17,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 ---
 
 ## My stats
-
+<br>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -33,6 +33,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+<br>
 
  ----
 
@@ -54,4 +55,3 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 <a href="https://www.instagram.com/dulhaara?igsh=anAzdGl5ZGRlZ3Nl&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/edit/21702304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dulhara" height="50" width="50" /></a>
 </p>
----
