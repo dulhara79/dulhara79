@@ -1,3 +1,5 @@
+-----
+
 # It's pleasure to see you here,
 
 
@@ -16,7 +18,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
 ---
 
-## My stats
+## Language & Tools:
 <br>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -37,6 +39,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 
  ----
 
+## My stats:
 
 <p align="center">
 <img width="375px" src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
@@ -47,8 +50,13 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulhara79&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
+<br>
+
+-----
+
 ## Connect with me:
 
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/dulhara-kaushalya-928889253" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100080904725947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
