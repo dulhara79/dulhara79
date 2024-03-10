@@ -3,7 +3,7 @@
 # It's pleasure to see you here,
 
 
-<img align="center" width="800px" src="images/GitHub_banner.jpg" alt="github banner">
+<img align="center"  src="images/GitHub_banner.jpg" alt="github banner">
 
 -------
 
