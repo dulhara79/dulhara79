@@ -63,7 +63,6 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 <p align="center">
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulhara79&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&" alt="dulhara79" /></p>
  <p align="left" >
       <img
           src="https://github-profile-trophy.vercel.app/?username=dulhara79"
