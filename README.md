@@ -58,7 +58,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 <p align="center">
 <img width="375px" src="https://github-readme-stats.vercel.app/api?username=dulhara79&theme=light&show_icons=true&count_private=true" />
 
-<img width="375px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&theme=light&hide_border=false" /> 
+<img width="375px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&" /> 
 </p>
 <p align="center">
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulhara79&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
