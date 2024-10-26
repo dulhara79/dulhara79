@@ -76,7 +76,7 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 ## Connect with me:
 
 <br>
-<p align="center">
+<p align="center" style="width:30px; height: 30px">
  <a href="https://kaggle.com/dulharakaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dulharakaushalya" height="30" width="40" /></a>
 <a href="http://www.linkedin.com/in/dulhara-kaushalya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100080904725947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
