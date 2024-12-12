@@ -9,9 +9,13 @@
 
 ## Who am I?
 
-Hi 👋, I’m @Dulhara Kaushalya
+👋 Hi there! I’m a Data Science undergraduate at SLIIT, deeply fascinated by the power of data and AI. My GitHub is home to projects showcasing my skills in machine learning, AI, and data analysis.  
 
-Energetic and passionate Undergraduate student towards improving knowledge and skills in IT industry. Looking forward for opportunities to enhance my capabilities. Trying to do great thing..
+🚀 Highlights:   
+- Focused on exploring Generative AI and building innovative solutions.  
+- Always ready to collaborate on open-source projects and meaningful contributions to the community.  
+
+Let’s code and create together!  
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20views&color=0e75b6&style=flat" alt="dulhara79" /> </p>
