@@ -3,7 +3,8 @@
 # It's pleasure to see you here,
 
 
-<img align="center"  src="images/GitHub_banner.jpg" alt="github banner">
+<!-- <img align="center"  src="images/GitHub_banner.jpg" alt="github banner"> -->
+<img align="center"  src="images/GitHub-Banner_1.png" alt="github banner">
 
 -------
 
