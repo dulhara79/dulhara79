@@ -4,7 +4,9 @@
 
 
 <!-- <img align="center"  src="images/GitHub_banner.jpg" alt="github banner"> -->
+<a href="https://www.dulharakaushalya.vercel.app" alt="portfolio">
 <img align="center"  src="images/GitHub-Banner_1.png" alt="github banner">
+</a>
 
 -------
 
