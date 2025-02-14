@@ -101,21 +101,12 @@ class DataScientist:
 
 <div align="center">
 
-<!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6699CC)](https://dulharakaushalya.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=6699CC)](http://www.linkedin.com/in/dulhara-kaushalya)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=for-the-badge&logo=kaggle&logoColor=6699CC)](https://kaggle.com/dulharakaushalya)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=6699CC)](https://medium.com/@nwatch117)
-[![Facebook](https://img.shields.io/badge/Facebook-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=6699CC)](https://www.facebook.com/profile.php?id=100080904725947)
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=6699CC)](https://www.instagram.com/dulhaara)
--->
-
-<p align="center">
-<a href="http://www.linkedin.com/in/dulhara-kaushalya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dulhara Kaushalya" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100080904725947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
-<a href="https://www.instagram.com/dulhaara?igsh=anAzdGl5ZGRlZ3Nl&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulhara kaushalya" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/edit/21702304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dulhara" height="50" width="50" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://dulharakaushalya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dulhara-kaushalya)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/dulharakaushalya)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nwatch117)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080904725947)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dulhaara)
 
 </div>
 
