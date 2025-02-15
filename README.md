@@ -93,7 +93,7 @@ class DataScientist:
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dulhara79&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=dulhara79&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&col=4" width="100%">
 </div>
 
 <!-- Connect Section -->
