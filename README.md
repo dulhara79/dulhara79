@@ -99,7 +99,7 @@ Data Science undergraduate at Sri Lanka Institute of Information Technology (SLI
 
 ## Contact Information
 
-**Email**: [Professional Email]  
+**Email**: dulhara.kaushalya79@gmail.com  
 **Location**: Sri Lanka  
 **Available for**: Internships, Collaborations, Freelance Projects
 
