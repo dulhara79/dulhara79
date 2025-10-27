@@ -111,8 +111,9 @@ Data Science undergraduate at Sri Lanka Institute of Information Technology (SLI
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dulhara-kaushalya)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dulharakaushalya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dulhara-kaushalya)
+[![Medium](https://img.shields.io/badge/Follow_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nwatch117)
 
 </div>
 
