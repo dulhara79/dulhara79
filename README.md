@@ -1,139 +1,63 @@
-# Dulhara Kaushalya
+<p align="center">
+  <a href="https://dulharakaushalya.vercel.app/">
+    <img src="./images/profile-banner.svg" alt="Dulhara Kaushalya — AI/ML engineering, applied AI research, and product development" width="100%" />
+  </a>
+</p>
 
-[![GitHubBanner](https://github.com/dulhara79/dulhara79/blob/main/images/GitHub-Banner_1.png)](https://dulharakaushalya.vercel.app/)
+<p align="center">
+  <strong>AI/ML Engineer · Applied AI Research · Data Science</strong>
+</p>
 
----
-
-**Data Science Student | Machine Learning Engineer | Full Stack Developer**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dulhara-kaushalya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://dulharakaushalya.vercel.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/dulharakaushalya)
-
-</div>
-
----
-
-## Professional Summary
-
-Data Science undergraduate at Sri Lanka Institute of Information Technology (SLIIT) with expertise in machine learning, artificial intelligence, and full-stack development. Passionate about leveraging data-driven insights to solve complex business problems and create innovative solutions.
-
-**Current Focus Areas:**
-- Machine Learning & Deep Learning
-- Generative AI Applications
-- Full Stack Web Development
-- Data Analytics & Visualization
+<p align="center">
+  <a href="https://dulharakaushalya.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/dulhara-kaushalya/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://huggingface.co/dulharakaushalya">Hugging Face</a>
+  &nbsp;·&nbsp;
+  <a href="https://medium.com/@nwatch117">Writing</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:dulhara.kaushalya79@gmail.com">Email</a>
+</p>
 
 ---
 
-## Technical Expertise
+### About
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat&logo=kotlin&logoColor=white)
+I'm a Data Science undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)**, building machine-learning systems that connect careful experimentation with usable applications.
 
-### Data Analysis & Visualization
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-884488?style=flat&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+My interests are in **applied machine learning, natural language processing, speech technology, and reliable AI systems**. I enjoy working across the process: preparing data, developing and evaluating models, building APIs, and integrating them into software people can use.
 
-### Machine Learning & Deep Learning
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+I previously worked as an **AI/ML Engineer Intern at Sri Lanka Telecom (SLT) Digital Lab R&D**, contributing to AI-enabled applications and speech-processing projects.
 
-### Big Data Technologies
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+### Selected work
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+| Project | What I worked on |
+| :--- | :--- |
+| **[TC-WPN · Clinical NLP](https://github.com/dulhara79/tcwpn_test)** | Research into few-shot clinical-text modelling using Bio_ClinicalBERT representations and prototypical learning, with an emphasis on patient-disjoint evaluation and leakage controls. |
+| **[VoxLive · Live Transcription](https://github.com/dulhara79/voxlive_transcription)** | A real-time speech transcription application with speaker-aware transcript presentation. |
+| **[ClinAnx · Clinician Mobile App](https://github.com/dulhara79/tcwpn_mobile_app)** | A Flutter research prototype that presents assessment data, supporting evidence, and uncertainty-aware clinician workflows. |
+| **[AI Thread Exporter](https://github.com/dulhara79/chatgpt-thread-exporter)** | A browser extension for locally exporting ChatGPT and Claude conversations to structured PDF, Word, and Markdown files. |
 
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+My clinical NLP work is part of **[R26-DS-012](https://github.com/dulhara79/R26-DS-012)**, a collaborative multimodal anxiety research project. This is academic research and decision-support prototyping, **not a diagnostic device**.
 
-### Developer Tools & OS
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+### Technical toolkit
 
----
+| Area | Technologies |
+| :--- | :--- |
+| **Machine learning & NLP** | Python · PyTorch · Hugging Face Transformers · scikit-learn · NumPy · Pandas |
+| **Applications & APIs** | FastAPI · React · Flutter · REST APIs |
+| **Development & delivery** | Git · GitHub · Docker · Linux |
 
-## GitHub Analytics
+I prefer showing what I've built over listing every tool I've encountered. The linked repositories and [portfolio](https://dulharakaushalya.vercel.app/) provide more context.
 
-<div align="center">
-  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dulhara79&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulhara79&layout=compact&theme=default&hide_border=true"/>
+### Experience & education
 
-</div>
+- **AI/ML Engineer Intern · SLT Digital Lab R&D** — 2026. Applied AI/ML development and speech-related engineering work.
+- **B.Sc. (Hons) in Information Technology, specialising in Data Science · SLIIT** — Undergraduate.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulhara79&theme=default&hide_border=true" alt="GitHub Streak"/>
-</div>
+### Connect
 
----
+I'm interested in **AI/ML engineering opportunities** and thoughtful research or software collaborations.
 
-## Professional Interests
-
-- **Machine Learning**: Developing predictive models and recommendation systems
-- **Data Analytics**: Statistical analysis and business intelligence solutions
-- **AI Research**: Exploring generative AI and natural language processing
-- **Software Engineering**: Building scalable web applications and APIs
-- **Open Source**: Contributing to community-driven projects
-
----
-
-## Education & Certifications
-
-**Bachelor of Science in Data Science**  
-*Sri Lanka Institute of Information Technology (SLIIT)*  
-*Currently Pursuing*
-
----
-
-## Contact Information
-
-**Email**: dulhara.kaushalya79@gmail.com  
-**Location**: Sri Lanka  
-**Available for**: Internships, Collaborations, Freelance Projects
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dulharakaushalya.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dulhara-kaushalya)
-[![Medium](https://img.shields.io/badge/Follow_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nwatch117)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulhara79&label=Profile%20Views&color=0077B5&style=flat" alt="Profile views"/>
-</div>
+**[Portfolio](https://dulharakaushalya.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/dulhara-kaushalya/)** · **[Email](mailto:dulhara.kaushalya79@gmail.com)**

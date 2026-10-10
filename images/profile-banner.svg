@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Dulhara Kaushalya — AI/ML Engineering</title>
+  <desc id="desc">A clean dark navy banner with mint accents and a subtle connected-node illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101d2a"/>
+      <stop offset="100%" stop-color="#18333b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#77dfcd"/>
+      <stop offset="100%" stop-color="#6fb6d6"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#b1e2dd" stroke-width="0.5" opacity="0.12"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="280" rx="16"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="280" fill="url(#background)"/>
+    <rect width="1200" height="280" fill="url(#grid)"/>
+    <circle cx="1075" cy="115" r="170" fill="#5bcab9" opacity="0.045"/>
+    <circle cx="940" cy="248" r="180" fill="#74bedd" opacity="0.04"/>
+    <rect x="52" y="42" width="42" height="42" rx="10" fill="#75d4c6" opacity="0.12" stroke="#80ddcd" stroke-opacity="0.6"/>
+    <text x="73" y="69" text-anchor="middle" font-size="19" font-weight="700" fill="#9be7dc" font-family="Arial, Helvetica, sans-serif">DK</text>
+    <text x="52" y="146" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.4" fill="#f5fafb">Dulhara Kaushalya</text>
+    <text x="55" y="181" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="2.1" fill="#8bdfd1">AI / ML ENGINEERING  ·  APPLIED RESEARCH</text>
+    <path d="M 54 204 H 626" stroke="#7cbab7" stroke-opacity="0.32" stroke-width="1"/>
+    <text x="55" y="229" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="0.7" fill="#c1d3d7">From rigorous experiments to useful software</text>
+    <g fill="none" stroke-linecap="round">
+      <path d="M 764 168 L 828 99 L 916 129 L 1002 69 L 1115 117" stroke="#74d4c6" stroke-width="1.6" opacity="0.56"/>
+      <path d="M 764 168 L 848 223 L 916 129 L 1024 207 L 1115 117" stroke="#8cb8d0" stroke-width="1.4" opacity="0.54"/>
+      <path d="M 828 99 L 842 48 L 1002 69 L 1024 207 L 1110 238" stroke="#668b9c" stroke-width="1" opacity="0.4"/>
+      <path d="M 848 223 L 917 245 L 1024 207" stroke="#74d4c6" stroke-width="1" opacity="0.35"/>
+    </g>
+    <g fill="#8cddcd">
+      <circle cx="764" cy="168" r="6"/>
+      <circle cx="828" cy="99" r="6"/>
+      <circle cx="916" cy="129" r="9" fill="#101d2a" stroke="#a4ebe0" stroke-width="3"/>
+      <circle cx="1002" cy="69" r="6"/>
+      <circle cx="1115" cy="117" r="6"/>
+      <circle cx="848" cy="223" r="5"/>
+      <circle cx="1024" cy="207" r="7" fill="#7bbdd9"/>
+      <circle cx="842" cy="48" r="3" opacity="0.8"/>
+      <circle cx="917" cy="245" r="3" opacity="0.7"/>
+      <circle cx="1110" cy="238" r="4" fill="#7bbdd9"/>
+    </g>
+  </g>
+</svg>
